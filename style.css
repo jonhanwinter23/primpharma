@@ -184,13 +184,13 @@ body{
 
 .home-content p {
     font-size: 3rem;
-    font-family: KantumruyPro-Bold.ttf;
+    font-family: 'KantumruyPro-Bold', fallback;
     font-weight: bold;
     margin-top: 1rem;
 }
 
 .hospital h4 {
-    font-family: KantumruyPro-Bold.ttf;
+    font-family: 'KantumruyPro-Bold', fallback;
 }
 
 .home-image .phone {
