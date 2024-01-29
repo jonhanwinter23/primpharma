@@ -1,6 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,300;1,400&display=swap');
 
+@font-face {
+    font-family: 'KantumruyPro-Bold';
+    src: url('KantumruyPro-Bold.ttf');
+}
+
 
 * {
     margin: 0;
