@@ -928,3 +928,31 @@ body{
         width: 90vw;
     }
 }
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.sponsor-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: linear-gradient(
+        to right,
+        #00AFD6,
+        #00C5D3,
+        #00D8C1);
+    padding: 20px 0;
+}
+
+.sponsor-container img {
+    width: 100px;
+    height: 100px;
+}
+
+
+
